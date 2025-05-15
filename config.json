@@ -1,0 +1,8 @@
+{
+    "input_file": "spotdl_list.txt",
+    "download_dir": "downloads",
+    "cookies_file": "cookies.txt",
+    "thread_count": 3,
+    "check_interval": 1,
+    "spotdl_timeout": 120
+}
