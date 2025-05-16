@@ -21,7 +21,8 @@ A robust, multi-process batch controller for [SpotDL](https://github.com/spotDL/
 * Python 3.9+
 * [SpotDL](https://github.com/spotDL/spotify-downloader) (`pip install spotdl`)
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp) (`pip install yt-dlp`)
-* A Spotify account
+* A Spotify account (Optional)
+* A YouTube account (Optional)
 
 **No manual FFmpeg installation is required for most users.**
 SpotDL bundles FFmpeg on Windows and usually works out of the box.
